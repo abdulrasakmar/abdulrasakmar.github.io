@@ -66,7 +66,7 @@ def create_resume_docx():
 
     p_contact = cell_info.add_paragraph()
     p_contact.paragraph_format.space_after = Pt(0)
-    r_contact = p_contact.add_run("📱 Mobile: +91 9447723429  |  📧 Email: rasakmar@gmail.com\n📍 Location: India  |  🎓 B.Tech CSE (MG University 2012)  |  💼 11+ Yrs Exp")
+    r_contact = p_contact.add_run("📱 Mobile: +91 9447723429  |  📧 Email: rasakmar@gmail.com\n📍 Location: Muvattupuzha, Kerala, India  |  🎓 B.Tech CSE (MG University 2012)  |  💼 11+ Yrs Exp")
     r_contact.font.name = "Calibri"
     r_contact.font.size = Pt(10)
     r_contact.font.color.rgb = MUTED_COLOR
@@ -169,7 +169,7 @@ def create_resume_docx():
     r_r1_title.font.bold = True
     r_r1_title.font.color.rgb = SECONDARY_COLOR
 
-    r_r1_comp = p_r1.add_run("  |  Safecare Technologies Pvt Ltd")
+    r_r1_comp = p_r1.add_run("  |  Safecare Technologies Pvt Ltd, Muvattupuzha")
     r_r1_comp.font.name = "Calibri"
     r_r1_comp.font.size = Pt(11)
     r_r1_comp.font.color.rgb = PRIMARY_COLOR
