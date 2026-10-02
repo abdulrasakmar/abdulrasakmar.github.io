@@ -169,7 +169,7 @@ def create_resume_docx():
     r_r1_title.font.bold = True
     r_r1_title.font.color.rgb = SECONDARY_COLOR
 
-    r_r1_comp = p_r1.add_run("  |  Enterprise Healthcare & IT Solutions")
+    r_r1_comp = p_r1.add_run("  |  Safecare Technologies Pvt Ltd")
     r_r1_comp.font.name = "Calibri"
     r_r1_comp.font.size = Pt(11)
     r_r1_comp.font.color.rgb = PRIMARY_COLOR
