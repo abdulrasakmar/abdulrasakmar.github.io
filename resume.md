@@ -1,6 +1,6 @@
 # ABDUL RASAK M R
 **Senior Software Engineer | Healthcare Integration & Microservices Specialist**  
-📱 Mobile: +91 9447723429 | 📍 India | 💼 11+ Years Experience
+📱 Mobile: +91 9447723429 | 📧 Email: rasakmar@gmail.com | 📍 India | 💼 11+ Years Experience
 
 ---
 
